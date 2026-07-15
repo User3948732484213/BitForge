@@ -13,3 +13,5 @@ pip install pycryptodome
 ```bash
 pip install cryptography
 ```
+# ССЫЛКИ:
+Telegram: https://t.me/bitforgecreate
